@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+age = input("How old are you? ")
+standard = input("Which Grade are you in? ")
+school = input("Which school do you attend? ")
+location = input("Where do you live? ")
+print(f"Hello {name}, you are {age} years old. You are in grade {standard} at {school}. You currently live in {location} County. Thank you.")
